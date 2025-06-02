@@ -1,0 +1,7 @@
+{
+  "sheet_name": "Send Mail To Recruiters",
+  "worksheet_name": "Sheet1",
+  "resume_file": "resume.pdf",
+  "email_template_file": "email_template.html",
+  "email_toggle": "Yes"
+}
