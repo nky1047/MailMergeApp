@@ -1,6 +1,7 @@
 # Python--Mail_merge -- IN PROGRESS
 Tool To Email 100s of HR once in a customized way
 
+Actual Script is Private (hidden)
 
 # ✅ 1. Add Yourself as a Test User
 
